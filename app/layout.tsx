@@ -4,6 +4,7 @@ import SmoothScrollProvider from "@/components/SmoothScrollProvider";
 import "./globals.css";
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://www.ikra.agency"),
   title: "ikra — rebranding agency",
   description:
     "ikra is a rebranding agency for the most discerning ambitions.",
